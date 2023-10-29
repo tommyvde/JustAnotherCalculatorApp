@@ -6,7 +6,7 @@ Just Another plain old Calculator App
 
 My first Flutter project, of course its a calculator… how original. 
 ***
-![[JACA Screenshot.jpg]] 
+![App Screenshot](JACA Screenshot.jpg) 
 ***
 ## Getting Started
 
